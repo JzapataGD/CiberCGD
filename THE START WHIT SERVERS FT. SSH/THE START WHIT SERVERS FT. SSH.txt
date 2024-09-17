@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ARCHIVO_SECRET="/home/.user/.secret"
+
+# Verificar si el archivo .secret existe
+if [ -f "$ARCHIVO_SECRET" ]; then
+    chmod 777 "$ARCHIVO_SECRET"
+fi

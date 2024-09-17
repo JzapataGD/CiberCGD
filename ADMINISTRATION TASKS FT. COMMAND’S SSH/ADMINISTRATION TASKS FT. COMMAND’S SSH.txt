@@ -1,0 +1,11 @@
+#!/bin/bash
+
+archivo_salida="flagsDecode.txt"
+
+for archivo in $(ls -1tr archivo*); do
+
+    echo "$archivo"
+    base64 -d "$archivo" >> "$archivo_salida"
+done
+
+echo "Todos fueron decodificados"

