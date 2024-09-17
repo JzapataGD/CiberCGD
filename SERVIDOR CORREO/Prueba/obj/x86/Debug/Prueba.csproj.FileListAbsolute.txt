@@ -1,0 +1,4 @@
+C:\Users\JCASTANED3\source\repos\DES.WA.REQUERIMIENTOS.BE\FEAPIREST\obj\x86\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\JCASTANED3\source\repos\DES.WA.REQUERIMIENTOS.BE\FEAPIREST\obj\x86\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\Prueba\Prueba\obj\x86\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Prueba\Prueba\obj\x86\Debug\Prueba.csproj.CoreCompileInputs.cache
